@@ -1,5 +1,7 @@
 # Curso-JS-Moderno 
 
-Carrito => https://carrito-ecommerce.netlify.app/
+Carrito con LocalStorage = https://carrito-ecommerce-local-storage.netlify.app/#>
 Envio de Email => https://envio-email-validacion.netlify.app/
 Buscador de Autos => https://buscador-autos.netlify.app/
+Tweets => https://proyecto-tweets.netlify.app/
+
